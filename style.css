@@ -69,6 +69,7 @@ figcaption {
     font-size: 14px;
     color: #555555;
     margin-top: 8px;
+}
 
     card {
         background-color: #f3d9fa;
@@ -88,4 +89,3 @@ figcaption {
         padding: 20px;
         margin-top: 30px;
     }
-}
