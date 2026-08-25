@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: #6b2d5c;
+    color: #2b0b0b;
 }
 
 p {
@@ -32,7 +32,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    background-color: #9b4d83;
+    background-color: #a30d0d;
     padding: 10px 15px; /* Corrigido o espaço */
     border-radius: 8px; /* Corrigida a digitação */
     margin: 5px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #c77dff;
+    background-color: #d82b2b;
 }
 
 main {
@@ -74,7 +74,7 @@ figcaption {
     background-color: #f3d9fa;
     padding: 15px;
     margin: 15px 0; 
-    border-left: 6px solid #6b2d5c; 
+    border-left: 6px solid #2b0303; 
     border-radius: 10px;
 }
 
