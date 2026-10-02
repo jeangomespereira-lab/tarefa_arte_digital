@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: rgb(243, 183, 164);
-    color: #333333; 
+    color: #333333;
     text-align: center;
     padding: 30px;
 }
@@ -33,10 +33,10 @@ nav a {
     color: white;
     text-decoration: none;
     background-color: #a30d0d;
-    padding: 10px 15px; 
-    border-radius: 8px; 
+    padding: 10px 15px;
+    border-radius: 8px;
     margin: 5px;
-    display: inline-block; 
+    display: inline-block;
 }
 
 nav a:hover {
@@ -70,11 +70,11 @@ figcaption {
     margin-top: 8px;
 }
 
-.card { 
+.card {
     background-color: #df8582;
     padding: 15px;
-    margin: 15px 0; 
-    border-left: 6px solid #420606; 
+    margin: 15px 0;
+    border-left: 6px solid #420606;
     border-radius: 10px;
 }
 
@@ -83,7 +83,7 @@ figcaption {
 }
 
 footer {
-    background-color: #333333; 
+    background-color: #333333;
     color: white;
     text-align: center;
     padding: 20px;
@@ -108,3 +108,4 @@ button:hover {
     width: fit-content;
     margin: 20px auto;
 }
+
