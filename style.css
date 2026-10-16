@@ -43,7 +43,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: var(--cor-clara);
     text-decoration: none;
     background-color: #a30d0d;
     padding: 10px 15px;
